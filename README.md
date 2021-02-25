@@ -5,6 +5,8 @@ http://sorumi.xyz/posts/unity-fur-shader/
 
 <img src="Docs/Intro.png"/>
 
+中文链接：
+[Unity Fur Shader 皮毛着色器](https://blog.csdn.net/qq_24153371/article/details/81742337)
 
 #### 0.1 Basic
 Basic fur shader with ambient, diffuse and specular.
